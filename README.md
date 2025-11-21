@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=141321&ring=fe428e&fire=f8d210&currStreakLabel=fe428e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golyadkinma&theme=radical&hide_border=true&background=141321&ring=fe428e&fire=f8d210&currStreakLabel=fe428e" alt="GitHub Streak" />
 </p>
 
 ---
