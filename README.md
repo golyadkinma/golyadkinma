@@ -35,7 +35,7 @@
 
 <!-- СТАТИСТИКА: ТЕМА RADICAL (КИБЕРПАНК) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&icon_color=f8d210" alt="Max's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=golyadkinma&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&icon_color=f8d210" alt="Max's GitHub Stats" />
 </p>
 
 <p align="center">
