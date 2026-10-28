@@ -1,79 +1,60 @@
 <div align="center">
 
-# 🌸 Heyya~! I'm [Твоё Имя / Ник] 🌸
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=180&section=header&text=Hey,%20I'm%20[Твой%20Ник]%20🦀&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### 🦀 UwU Rustacean & Low-Level Enjoyer ✨
+  <h3>Rust Developer | Systems & Backend</h3>
 
-<img src="https://raw.githubusercontent.com/Catppuccin/Catppuccin/main/assets/palette/macchiato.png" width="400px" />
+  <p align="center">
+    <i>Пишу безопасный код, думаю своей головой, а не автокомплитом, и соблюдаю дресс-код комьюнити Раста.</i>
+  </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJqMnkzbWN4OGt6Mm9rMms2Nnk1YWRxbWJxcWRvN29lNmhsdnZxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2z7dnOduqEow/giphy.gif" width="300px" alt="Anime typing gif" />
-</p>
-
-*«Borrow checker is my strict mommy, and I love safety~»* 💕
-
----
-
-<!-- Баджики со стилем Catppuccin / Pink -->
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Thigh Highs](https://img.shields.io/badge/Thigh_Highs-Enabled-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)
+  <!-- Бейджи -->
+  <p>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Programming_Socks-Equipped-ff69b4?style=for-the-badge" alt="Socks" />
+  </p>
 
 </div>
 
 ---
 
-### 🎀 About Me (The Cutest Crab)
+### ⚡ О себе и подходе к делу
 
-- 🦀 **Primary language:** Rust (Zero-cost abstractions make my heart go *doki-doki*).
-- 👗 **Coding uniform:** Programming socks (striped thigh-highs, obviously).
-- 🍵 **Fuel:** Monster Energy Ultra Rosa & Matcha Latte.
-- ⚙️ **Current focus:** Writing memory-safe CLI tools and fighting the borrow checker.
-- 💻 **OS:** Arch Linux (I use Arch btw, with a cozy pink Catppuccin theme).
+<img align="right" width="220" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Rust/Rust.png" alt="Rust Logo" />
+
+- **Основной профиль:** Разработка на **Rust**. Ценю строгую типизацию, предсказуемость и когда код работает с первого запуска после компиляции.
+- **Прагматичный выбор ОС:** Основная система — **Windows**, а **Linux** использую ровно так, как он и задуман — как рабочий инструмент (WSL / серверы / контейнеры), без фанатизма.
+- **Чистый воркфлоу:** Предпочитаю сам продумывать архитектуру и логику, без навязчивых ИИ-подсказок на каждый чих.
+- **Эстетика:** Да, мемы про Rust-разработчиков и полосатые чулки оказались правдой :3
+
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack & Cutie Gear
+### 🛠 Стек и инструменты
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,wasm,linux,neovim,git,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=rust,windows,linux,git,docker,postgres&perline=8" alt="Tech Stack" />
 </p>
 
-- **Languages:** Rust, C/C++, WebAssembly
-- **Environment:** Alacritty + Tmux + Neovim (no heavy IDEs allowed!)
-- **Safety level:** `#[forbid(unsafe_code)]` unless I'm feeling mischievous :3
-
 ---
 
-### 📊 Little Stats
+### 📊 Статистика GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6" alt="Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=f8f8f2" alt="Top Langs" />
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
 
 <div align="center">
-
-### 💬 Connect with me
-
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://t.me">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer" width="100%"/>
-
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
-
